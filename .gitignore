@@ -1,11 +1,66 @@
-/build
-*~
-.DS_Store
-/*.xcodeproj/*.mode1v3
-/*.xcodeproj/*.pbxuser
-/CMakeFiles
-/CMakeCache.txt
-/cmake_install.cmake
-/libOALWrapper.a
-/SimpleTest
-/Makefile
+# Prerequisites
+*.d
+
+# User defined
+[Cc]ge/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Ii]nt/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Ll]ib/
+
+# MSVS Files and dirs
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln
+*.sln.docstates
+*.vcxproj
+*.filters
+.vs/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.pdb
+*.exe
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+#Extra dirs
+[Oo]ld
+
+#Exclude from .gitignore
+!Premake5/premake5.exe

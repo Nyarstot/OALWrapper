@@ -24,7 +24,7 @@ extern void OAL_Source_Log(int mlSourceId, int alMessageType, const char *asMess
 
 //-----------------------------------------------------------------------------------------
 
-#include "OAL_Types.h"
+#include "OALWrapper/OAL_Types.h"
 
 //-----------------------------------------------------------------------------------------
 

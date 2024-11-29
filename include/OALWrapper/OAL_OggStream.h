@@ -16,8 +16,8 @@
 #ifndef _OAL_OGGSTREAM_H
 #define _OAL_OGGSTREAM_H
 
-#include "OAL_Stream.h"
-#include "OAL_Helper.h"
+#include "OALWrapper/OAL_Stream.h"
+#include "OALWrapper/OAL_Helper.h"
 
 #include <vorbis/vorbisfile.h>
 

@@ -10,9 +10,9 @@
 
 //----------------------------------------------------------------
 
-#include "OAL_Types.h"
-#include "OAL_LowLevelObject.h"
-#include "OAL_AudioData.h"
+#include "OALWrapper/OAL_Types.h"
+#include "OALWrapper/OAL_LowLevelObject.h"
+#include "OALWrapper/OAL_AudioData.h"
 
 class iOAL_AudioData;
 

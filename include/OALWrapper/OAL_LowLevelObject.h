@@ -16,7 +16,7 @@
 #ifndef _OAL_LOWLEVELOBJECT_H
 #define _OAL_LOWLEVELOBJECT_H
 
-#include "OAL_LoggerObject.h"
+#include "OALWrapper/OAL_LoggerObject.h"
 
 class iOAL_LowLevelObject : public iOAL_LoggerObject
 {

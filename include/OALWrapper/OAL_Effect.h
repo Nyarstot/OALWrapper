@@ -8,7 +8,7 @@
 #ifndef _OAL_EFFECT_H
 #define _OAL_EFFECT_H
 
-#include "OAL_LowLevelObject.h"
+#include "OALWrapper/OAL_LowLevelObject.h"
 
 class cOAL_Effect : public iOAL_LowLevelObject
 {

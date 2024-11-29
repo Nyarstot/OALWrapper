@@ -16,6 +16,7 @@
 #ifndef _OAL_FUNCS_H
 #define _OAL_FUNCS_H
 
+// TODO: Remove this shit
 #ifdef WIN32
 #pragma comment(lib, "libvorbis.lib")
 #pragma comment(lib, "libvorbisfile.lib")
@@ -23,7 +24,7 @@
 #pragma comment(lib, "SDL.lib")
 #endif
 
-#include "OAL_Types.h"
+#include "OALWrapper/OAL_Types.h"
 
 ////////////////////////////////////////////
 // Init / Shutdown funcs

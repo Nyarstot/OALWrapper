@@ -16,7 +16,7 @@
 #ifndef _OAL_LOADERS_H
 #define _OAL_LOADERS_H
 
-#include "OAL_Types.h"
+#include "OALWrapper/OAL_Types.h"
 
 cOAL_Sample*	OAL_Sample_Load		( const std::string &asFilename, eOAL_SampleFormat format = eOAL_SampleFormat_Detect );
 cOAL_Sample*	OAL_Sample_Load		( const std::wstring &asFilename, eOAL_SampleFormat format = eOAL_SampleFormat_Detect );

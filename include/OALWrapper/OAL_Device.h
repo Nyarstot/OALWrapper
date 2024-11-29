@@ -16,12 +16,12 @@
 #ifndef _OAL_DEVICE_H
 #define _OAL_DEVICE_H
 
-#include "OAL_Types.h"
-#include "OAL_Init.h"
-#include "OAL_Helper.h"
-#include "OAL_SourceManager.h"
-#include "OAL_EFXManager.h"
-#include "OAL_LoggerObject.h"
+#include "OALWrapper/OAL_Types.h"
+#include "OALWrapper/OAL_Init.h"
+#include "OALWrapper/OAL_Helper.h"
+#include "OALWrapper/OAL_SourceManager.h"
+#include "OALWrapper/OAL_EFXManager.h"
+#include "OALWrapper/OAL_LoggerObject.h"
 
 
 class cOAL_Device : public iOAL_LoggerObject

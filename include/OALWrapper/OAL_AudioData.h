@@ -8,7 +8,7 @@
 #ifndef _OAL_AUDIODATA_H
 #define _OAL_AUDIODATA_H
 
-#include "OAL_Types.h"
+#include "OALWrapper/OAL_Types.h"
 
 //-------------------------------------------------------------------------------
 

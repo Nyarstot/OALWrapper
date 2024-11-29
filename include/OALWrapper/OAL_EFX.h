@@ -8,10 +8,10 @@
 #ifndef _OAL_EFX_H
 #define _OAL_EFX_H
 
-#include "OAL_Types.h"
-#include "OAL_Device.h"
-#include "OAL_SourceManager.h"
-#include "OAL_EFXManager.h"
+#include "OALWrapper/OAL_Types.h"
+#include "OALWrapper/OAL_Device.h"
+#include "OALWrapper/OAL_SourceManager.h"
+#include "OALWrapper/OAL_EFXManager.h"
 
 extern cOAL_Device* gpDevice;
 

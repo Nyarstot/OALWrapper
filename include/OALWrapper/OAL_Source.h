@@ -18,13 +18,13 @@
 
 class cOAL_SourceManager;
 
-#include "OAL_Types.h"
-#include "OAL_AudioData.h"
-#include "OAL_LowLevelObject.h"
-#include "OAL_SourceManager.h"
-#include "OAL_EffectSlot.h"
-#include "OAL_Effect.h"
-#include "OAL_Filter.h"
+#include "OALWrapper/OAL_Types.h"
+#include "OALWrapper/OAL_AudioData.h"
+#include "OALWrapper/OAL_LowLevelObject.h"
+#include "OALWrapper/OAL_SourceManager.h"
+#include "OALWrapper/OAL_EffectSlot.h"
+#include "OALWrapper/OAL_Effect.h"
+#include "OALWrapper/OAL_Filter.h"
 
 
 

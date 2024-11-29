@@ -8,8 +8,8 @@
 #ifndef _OAL_EFFECTSLOT_H
 #define _OAL_EFFECTSLOT_H
 
-#include "OAL_Types.h"
-#include "OAL_LowLevelObject.h"
+#include "OALWrapper/OAL_Types.h"
+#include "OALWrapper/OAL_LowLevelObject.h"
 
 class cOAL_EFXManager;
 

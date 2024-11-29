@@ -16,7 +16,7 @@
 #ifndef _OAL_OGGSAMPLE_H
 #define _OAL_OGGSAMPLE_H
 
-#include "OAL_Sample.h"
+#include "OALWrapper/OAL_Sample.h"
 
 //-------------------------------------------------------------------------------
 

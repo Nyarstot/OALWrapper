@@ -8,7 +8,7 @@
 #ifndef _OAL_STREAM_H
 #define _OAL_STREAM_H
 
-#include "OAL_AudioData.h"
+#include "OALWrapper/OAL_AudioData.h"
 
 //-----------------------------------------------------------------------------------
 

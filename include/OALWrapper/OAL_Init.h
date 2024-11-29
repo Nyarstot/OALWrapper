@@ -15,8 +15,8 @@
 #ifndef _OAL_INIT_H
 #define _OAL_INIT_H
 
-#include "OAL_Types.h"
-#include "OAL_LoggerObject.h"
+#include "OALWrapper/OAL_Types.h"
+#include "OALWrapper/OAL_LoggerObject.h"
 
 
 /////////////////////////////////////////

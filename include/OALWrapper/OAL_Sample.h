@@ -16,10 +16,10 @@
 #ifndef _OAL_SAMPLE_H
 #define _OAL_SAMPLE_H
 
-#include "OAL_Types.h"
-#include "OAL_Helper.h"
-#include "OAL_Source.h"
-#include "OAL_AudioData.h"
+#include "OALWrapper/OAL_Types.h"
+#include "OALWrapper/OAL_Helper.h"
+#include "OALWrapper/OAL_Source.h"
+#include "OALWrapper/OAL_AudioData.h"
 
 class cOAL_Sample : public iOAL_AudioData
 {
